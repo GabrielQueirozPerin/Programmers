@@ -1,0 +1,16 @@
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\bin\Debug\net5.0\ImpostoSobreConta.exe
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\bin\Debug\net5.0\ImpostoSobreConta.deps.json
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\bin\Debug\net5.0\ImpostoSobreConta.runtimeconfig.json
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\bin\Debug\net5.0\ImpostoSobreConta.runtimeconfig.dev.json
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\bin\Debug\net5.0\ImpostoSobreConta.dll
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\bin\Debug\net5.0\ref\ImpostoSobreConta.dll
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\bin\Debug\net5.0\ImpostoSobreConta.pdb
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\obj\Debug\net5.0\ImpostoSobreConta.csproj.AssemblyReference.cache
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\obj\Debug\net5.0\ImpostoSobreConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\obj\Debug\net5.0\ImpostoSobreConta.AssemblyInfoInputs.cache
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\obj\Debug\net5.0\ImpostoSobreConta.AssemblyInfo.cs
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\obj\Debug\net5.0\ImpostoSobreConta.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\obj\Debug\net5.0\ImpostoSobreConta.dll
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\obj\Debug\net5.0\ref\ImpostoSobreConta.dll
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\obj\Debug\net5.0\ImpostoSobreConta.pdb
+C:\Users\gabriel.perin\source\repos\ImpostoSobreConta\obj\Debug\net5.0\ImpostoSobreConta.genruntimeconfig.cache
